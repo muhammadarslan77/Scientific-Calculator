@@ -75,10 +75,5 @@ for row in buttons:
 # Instructions
 st.markdown("""
 ---
-**Instructions:**
-- Click the buttons to build your expression.
-- Use `Clear` or `C` to reset the expression.
-- Click `=` to evaluate the expression.
-- Use `Del` to delete the last character.
-- Functions like `sin`, `cos`, `tan`, `log`, `ln`, and `√` can be used by clicking their respective buttons.
+**Developed By:** Muhammad Arslan
 """)
